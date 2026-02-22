@@ -1,0 +1,61 @@
+.container{
+    width: 100%;
+    /* border: 1px solid red; */
+    /* display: flex;
+    justify-content: center;
+    align-items: center; */
+    /* height: 75vh; */
+
+}
+
+
+.AssignAreaDiv{
+    /* display: flex; */
+    position: absolute;
+    top: 25%;
+    left: 30%;
+    text-align: center;
+    width: 40%;
+    height: 40vh;
+    background-color: white;
+    /* border: 1px solid red; */
+    /* background-color: white; */
+    /* position: relative; */
+    border-radius: 1rem;
+}
+
+.SubDiv{
+    position: relative;
+    top: 5%;
+    left: 25%;
+    /* margin-top: 5rem; */
+    width: 50%;
+    /* padding-bottom: 5rem; */
+    /* display: flex;
+    justify-content: space-around; */
+    /* border: 1px solid blue; */
+}
+
+.heading{
+    color: #1565c0;
+    font-size: 2rem;
+    /* margin: 1rem; */
+}
+
+.select{
+    white-space:nowrap;
+    overflow: scroll;
+    font-size: medium;
+    margin-top: 1rem;
+    border-radius: .5rem;
+    /* background-color: #1565c0; */
+    /* color: white; */
+    /* margin-right: 1rem; */
+    border-style: none;
+}
+
+
+.options{
+    /* background-color: #296dbb; */
+    /* color: white; */
+}
