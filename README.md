@@ -21,6 +21,6 @@ A location-based web application built to support field operations. Users can vi
 - npm
 
 ### Run Locally
-```bash
+````bash
 npm install
 npm start
